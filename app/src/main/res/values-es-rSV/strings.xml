@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile">Perfil</string>
+    <string name="settings">Configuración</string>
+    <string name="fav">Favoritos</string>
+    <string name="income">Ingresos</string>
+    <string name="t">Presupuesto</string>
+    <string name="exit">Egreso</string>
+
+
+
+
+    <string name="con">Configuración</string>
+    <string name="perfil">Perfil</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="egreso">Egreso</string>
+</resources>

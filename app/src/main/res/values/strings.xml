@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppLife</string>
+
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="fav">Favorites</string>
+    <string name="income">Income</string>
+    <string name="t">Budget</string>
+    <string name="exit">Exit</string>
+
+
+
+
+    <string name="con">Configuración</string>
+    <string name="perfil">Perfil</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="egreso">Egreso</string>
+
+
+</resources>
+
